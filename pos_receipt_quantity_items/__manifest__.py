@@ -26,7 +26,7 @@ For support, contact us at: contact@layamedconsulting.com
         ],
     },
 
-    'images': ['static/description/banner.png'],
+    'images': ['static/description/banner.jpg'],
     'license': 'OPL-1',
     'price': 2.00,
     'currency': 'USD',
